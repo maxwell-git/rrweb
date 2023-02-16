@@ -1,5 +1,18 @@
 # rrweb
 
+## 2.0.0-alpha.6
+
+### Patch Changes
+
+- [#1130](https://github.com/rrweb-io/rrweb/pull/1130) [`f6f07e9`](https://github.com/rrweb-io/rrweb/commit/f6f07e953376634a4caf28ff8cbfed5a017c4347) Thanks [@Equlnox](https://github.com/Equlnox)! - Fix: Make relative path detection in stylesheet URLs to detect more types of URL protocols when inlining stylesheets.
+
+- [#1136](https://github.com/rrweb-io/rrweb/pull/1136) [`aaabdbd`](https://github.com/rrweb-io/rrweb/commit/aaabdbdff5df2abd1a294c40ed89e74bf8b2ec7c) Thanks [@benjackwhite](https://github.com/benjackwhite)! - fix: Recursive logging bug with console recording
+
+- Updated dependencies [[`f6f07e9`](https://github.com/rrweb-io/rrweb/commit/f6f07e953376634a4caf28ff8cbfed5a017c4347)]:
+  - rrweb-snapshot@2.0.0-alpha.6
+  - rrdom@2.0.0-alpha.6
+  - @rrweb/types@2.0.0-alpha.6
+
 ## 2.0.0-alpha.5
 
 ### Patch Changes
